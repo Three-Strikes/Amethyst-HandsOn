@@ -1,3 +1,0 @@
-# Target
-
-You did it!

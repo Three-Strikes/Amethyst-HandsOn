@@ -23,15 +23,15 @@ menu:
   #   - name: "Sample"
   #     url: "https://google.com"
   #     weight: 10
-  after:
-    - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
-      weight: 10
+  #after:
+  #  - name: "Github"
+  #    url: "https://github.com/64bitpandas/amethyst"
+  #    weight: 10
 
 params:
 
   name: Ben Cuan
-  title: 📓 Amethyst
+  title: 📓 Hands-on!
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'

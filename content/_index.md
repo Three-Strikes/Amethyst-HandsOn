@@ -8,35 +8,42 @@ weight: 5
 
 ## Internal Link
 
-Try to create an internal link to the target page in this folder, after this horizontal rule.
+Try to create an internal link here.
 
----
+
 
 
 ## External Link
 
-Try to create an external link to google in the following sandbox space.
+Try to create an external link here.
 
----
+
 
 
 ## Button
 
-Try to create a button below this horizontal rule.
+Try to create a button link here.
 
----
+
 
 
 # Callout Creation
 
 ## Create a callout
 
-Try to create a callout **with a link** to the target page in this folder, after this horizontal rule.
+Try to create a callout **with a link** here.
 
----
 
-## Create a "question" foldable callout
 
-Try to create a question type foldable callout with a link to google in the following sandbox space.
 
----
+## Create a callout of a different type
+
+Try to create a callout with a different type here.
+
+
+
+## Create a foldable callout
+
+Try to create a foldable callout here.
+
+
